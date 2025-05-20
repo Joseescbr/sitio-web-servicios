@@ -2,9 +2,8 @@
 
 Este proyecto web está diseñado para ofrecer una plataforma en la que profesionales puedan promocionar sus servicios y habilidades de manera efectiva. La página utiliza tecnologías como HTML, CSS y JavaScript para brindar una experiencia interactiva y atractiva.
 
-## Comenzando 🚀
-
-_Para ver como funciona el proyecto visita: [Click Aqui](https://joseescbr.github.io/sitio-web-servicios/)_
+## Visualiza el proyecto [Click Aqui](https://joseescbr.github.io/sitio-web-servicios/) 🚀
+ 
 
 ## Construido con 🛠️
 
