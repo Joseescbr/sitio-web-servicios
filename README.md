@@ -18,4 +18,4 @@ Se utilizo **Git** para el versionado.
 
 ## Autor ✒️
 
-* **Jose Escobar** - *Trabajo completo* - [joseescbr](https://github.com/Joseescbr)
+* [**Jose Escobar**](https://github.com/Joseescbr)
