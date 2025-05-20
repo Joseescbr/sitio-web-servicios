@@ -4,7 +4,7 @@ Este proyecto web está diseñado para ofrecer una plataforma en la que profesio
 
 ## Comenzando 🚀
 
-_Para ver como funciona el proyecto visita: [Click Aqui](https://joseescbr.github.io/sitio-web-servicios/_
+_Para ver como funciona el proyecto visita: [Click Aqui](https://joseescbr.github.io/sitio-web-servicios/)_
 
 ## Construido con 🛠️
 
